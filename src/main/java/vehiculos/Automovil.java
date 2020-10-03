@@ -15,7 +15,7 @@ public class Automovil extends Vehiculo {
 		this.nombre=nombre;
 		this.precio=precio;
 		this.peso=peso;
-		this.traccion="fwd";
+		this.traccion="FWD";
 		this.fabricante=fabricante;
 		this.puestos=puestos;
 		cantidadAutomovil++;
