@@ -17,7 +17,7 @@ public class Pais {
 		this.nombre = nombre;
 	}
 	public static Pais paisMasVendedor() {
-		Pais x=new Pais("ecuador");
+		Pais x=new Pais("Ecuador");
 		return x;
 	}
 

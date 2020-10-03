@@ -20,8 +20,8 @@ public class Fabricante {
 		this.pais = pais;
 	}
 	public static Fabricante fabricaMayorVentas() {
-		Pais xy=new Pais("ecuador");
-		Fabricante x=new Fabricante("renault",xy);
+		Pais xy=new Pais("Ecuador");
+		Fabricante x=new Fabricante("Renault",xy);
 		return x;
 	}
 }
